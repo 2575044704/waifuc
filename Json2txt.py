@@ -1,4 +1,5 @@
-# 为了方便打标，将json文件转为txt文件
+
+# 用于sd-scripts训练脚本，为了方便打标，将json文件转为txt文件
 # 记得修改目录路径
 import os
 import json
